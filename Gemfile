@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.1.2'
+ruby '2.6.6'
 
 gem 'sinatra', require: false
 gem 'sidekiq', require: 'sidekiq/web'
